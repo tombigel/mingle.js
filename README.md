@@ -1,6 +1,4 @@
 mingle.js
 =========
 
-A JS based conversation API
-
-*Soon.*
+*This is a stub. See you soon.*
